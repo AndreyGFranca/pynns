@@ -1,28 +1,26 @@
 #include "BFQuery.h"
 
-pynns::BFQuery()
+template <class T> 
+pynns::BFQuery<T>::BFQuery()
 {
 
 }
 
-pynns::~BFQuery()
+template <class T> 
+void pynns::BFQuery<T>::store_data(std::vector<T> coords) /*noexcept*/
 {
-
+    m_data = coords;
 }
 
-template <typename T> 
-void pynns::BFQuery::void store_data(std::vector<T> coords) /*noexcept*/
-{
-    m_data = coord;
-    return;
-}
-
-template<typename T>
-void pynns::BFQuery::query(T coord)
+template<class T>
+void pynns::BFQuery<T>::query(T coord, unsigned int k)
 {
     for (int i = 0; i < m_data.size; ++i)
     {
-        /* code */
+        for (int j = 0; j < m_data.size; ++i)
+        {
+
+        }
     }
 }
 

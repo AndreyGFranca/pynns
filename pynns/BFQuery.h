@@ -3,19 +3,18 @@
 #include <vector>
 
 namespace pynns {
+    template<typename T>
     class BFQuery
     {
     public:
         BFQuery();
         ~BFQuery();
 
-
-        template <typename T> 
-        void store_data(std::vector<T> const& coord) /*noexcept*/;
+        void store_data(std::vector<T> coords) /*noexcept*/;
+        void query(T coord, unsigned int k);
 
     private:
 
-        template<typename T>
         std::vector<T> m_data;
         
     };
