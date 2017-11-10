@@ -1,0 +1,3 @@
+[submodule "pynns/extern/upp11"]
+	path = pynns/extern/upp11
+	url = https://github.com/DronMDF/upp11
