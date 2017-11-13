@@ -23,9 +23,9 @@ class get_pybind_include(object):
 
 ext_modules = [
     Extension(
-        'pynns',
-        ['src/module.cc',
-        'src/BFQuery.cc'
+        '_pynns',
+        ['pynns/module.cc',
+        'pynns/BFQuery.cc'
         ],
         include_dirs=[
             # Path to pybind11 headers

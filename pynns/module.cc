@@ -4,7 +4,7 @@
 namespace py = pybind11;
 
 
-PYBIND11_MODULE(pynns, m) 
+PYBIND11_MODULE(_pynns, m) 
 {
 
     init_bfquery(m);
