@@ -1,0 +1,1536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"py",
+				"pybind11"
+			],
+			[
+				"cla",
+				"classtemp\tclass_template"
+			],
+			[
+				"cl",
+				"classtemp\tclass_template"
+			],
+			[
+				"te",
+				"tem\ttemplate"
+			],
+			[
+				"tem",
+				"tem\ttemplate"
+			],
+			[
+				"fun",
+				"funct\tRegular function"
+			],
+			[
+				"func",
+				"functor\tFunctor"
+			],
+			[
+				"temp",
+				"tempfunca\ttemplate auto function"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"data_",
+				"data_nasc"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"utf",
+				"UTF-8"
+			],
+			[
+				"Utf",
+				"UTF-8"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"for",
+				"for\tAttr"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"sindicaliza",
+				"sindicalizado_id"
+			],
+			[
+				"exp",
+				"exp1"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"cadastrar",
+				"cadastrarSindicalizado\t(GestaoSindicalizadosController.php)"
+			],
+			[
+				"set_",
+				"set_magic_quotes_runtime"
+			],
+			[
+				"DIRECTO",
+				"fam_monitor_directory"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-left\t(ver_noticia.blade.php)"
+			],
+			[
+				"width",
+				"width=\"30"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"conf",
+				"configuracoes"
+			],
+			[
+				"principal",
+				"principalView\t(RelatoriosController.php)"
+			],
+			[
+				"sindica",
+				"sindicalizados"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"file",
+				"fileLocation"
+			],
+			[
+				"title",
+				"title_name\t(cadastrar.blade.php)"
+			],
+			[
+				"title_",
+				"title_name\t(cadastrar.blade.php)"
+			],
+			[
+				"painel",
+				"painel.layouts.painel_master\t(principal.blade.php)"
+			],
+			[
+				"pane",
+				"panel-body\t(inadimplentes.blade.php)"
+			],
+			[
+				"Depende",
+				"dependentes"
+			],
+			[
+				"Gestao",
+				"GestaoSindicalizadosController\t(GestaoSindicalizadosController.php)"
+			],
+			[
+				"remover",
+				"remover_sindicalizado\t(GestaoSindicalizadosController.php)"
+			],
+			[
+				"rela",
+				"relatorio_sindicalizados"
+			],
+			[
+				"Sindica",
+				"Sindicalizado"
+			],
+			[
+				"sindi",
+				"sindicalizado_id"
+			],
+			[
+				"depen",
+				"dependentes"
+			],
+			[
+				"Sind",
+				"Sindicalizado"
+			],
+			[
+				"num",
+				"num_cpf\t(sindicalizar.blade.php)"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"foreach",
+				"foreach\t(ProdutoController.php)"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"n",
+				"n_neighbor"
+			],
+			[
+				"std",
+				"std::cout"
+			],
+			[
+				"calc",
+				"calc_psi_global"
+			],
+			[
+				"uper",
+				"upper"
+			],
+			[
+				"com",
+				"complex"
+			],
+			[
+				"down_",
+				"down_right"
+			],
+			[
+				"cell",
+				"cell_k"
+			],
+			[
+				"up_",
+				"up_right"
+			],
+			[
+				"disk",
+				"disk_k"
+			],
+			[
+				"up",
+				"up_right"
+			],
+			[
+				"lista",
+				"lista_discos"
+			],
+			[
+				"vect",
+				"vector"
+			],
+			[
+				"fi",
+				"fprintf\tfprintf …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/test.py",
+			"settings":
+			{
+				"buffer_size": 33,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pynns/BFQuery.h",
+			"settings":
+			{
+				"buffer_size": 415,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pynns/BFQuery.cc",
+			"settings":
+			{
+				"buffer_size": 591,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from pynns import BFQuery\nfrom .visualization import *\n",
+			"file": "pynns/__init__.py",
+			"file_size": 55,
+			"file_write_time": 131550749296790643,
+			"settings":
+			{
+				"buffer_size": 55,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/andrey/Documents/dev/test/src/Compute.cc",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 312.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andrey/Documents/dev/pynns",
+		"/home/andrey/Documents/dev/pynns/pynns",
+		"/home/andrey/Documents/dev/pynns/tests"
+	],
+	"file_history":
+	[
+		"/home/andrey/Documents/dev/pynns/pynns/module.cc",
+		"/home/andrey/Documents/blog/Automatos e Linguagens/example.html",
+		"/home/andrey/Documents/blog/Automatos e Linguagens/note02.html",
+		"/home/andrey/Documents/dev/pynns/setup.py",
+		"/home/andrey/Documents/dev/pynns/pynns/__init__.py",
+		"/home/andrey/Documents/dev/pynns/tests/test.py",
+		"/home/andrey/Documents/dev/pynns/pynns/BFQuery.cc",
+		"/home/andrey/Documents/dev/pynns/pynns/BFQuery.h",
+		"/home/andrey/Downloads/latex2wppy3-master/example.html",
+		"/home/andrey/Documents/blog/Utils/latex2wppy3/example.html",
+		"/home/andrey/Documents/testts md/Untitled2.html",
+		"/home/andrey/Downloads/latex2wppy3-master/main.html",
+		"/home/andrey/Documents/testts md/Untitled.html",
+		"/home/andrey/Documents/dev/pynns/pynns/main.cpp",
+		"/home/andrey/Documents/dev/pynns/pynns/Vector2D.cc",
+		"/home/andrey/Documents/dev/pynns/pynns/Vector2D.h",
+		"/home/andrey/Documents/dev/pynns/pynns/visualization.py",
+		"/home/andrey/Documents/dev/pynns/pynns/person.py",
+		"/home/andrey/Documents/dev/sindicato/app/Http/Controllers/Painel/GestaoSindicalizadosController.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/form_editar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/cadastrar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/sindicalizar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/atualizar-form.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/imprimir/fichacadastral.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/bancos/editar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/app/Console/Kernel.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/bancos/cadastrar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/app/Http/Controllers/Site/SiteController.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/rel_sindicalizados.blade.php",
+		"/home/andrey/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/andrey/Documents/dev/sindicato/app/Http/Controllers/Painel/BancoController.php",
+		"/home/andrey/Documents/dev/sindicato/app/Http/Controllers/Site/SindicalizarController.php",
+		"/home/andrey/Documents/dev/sindicato/public/images/editar.svg",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/layouts/master.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/index.blade.php",
+		"/home/andrey/Documents/sindicato",
+		"/home/andrey/Documents/dev/test.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/convenios.blade.php",
+		"/home/andrey/Documents/dev/sindicato/public/css/toolkit.css",
+		"/home/andrey/Documents/dev/sindicato/routes/web.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/ver_noticia.blade.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/layouts/foot.blade.php",
+		"/home/andrey/Documents/dev/sindicato/public/css/ihover.min.css",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/pagamentos/configuracoes.blade.php",
+		"/home/andrey/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/andrey/Downloads/2037135-5d31e7baaddd0d599b64c3ec04827fc244333447/combo_dinamico.html",
+		"/home/andrey/Documents/dev/sindicato/resources/views/site/atualizar.blade.php",
+		"/home/andrey/Documents/dev/sindicato/app/Models/Agencia.php",
+		"/home/andrey/test/a.in",
+		"/home/andrey/test/test.cpp",
+		"/home/andrey/Documents/dev/sindicato/database/seeds/BancosTableSeeder.php",
+		"/home/andrey/Documents/dev/sindicato/database/seeds/DatabaseSeeder.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/vendor/mail/html/footer.blade.php",
+		"/home/andrey/Documents/dev/sindicato/app/Http/Controllers/Painel/Noticias/CadastrarController.php",
+		"/home/andrey/Documents/dev/sindicato/database/migrations/2017_07_25_130255_create_sindicalizados_table.php",
+		"/home/andrey/Documents/dev/sindicato/resources/views/painel/noticias/cadastrar.blade.php",
+		"/home/andrey/doc/school/5 periodo/Redes/Cap3/RDT Python Implementation/RDT 1.0/client.py",
+		"/home/andrey/doc/school/5 periodo/APA/Trabalho 2/códigos/forca_bruta.cpp",
+		"/home/andrey/doc/school/5 periodo/APA/Trabalho 2/códigos/programacao_din.cpp",
+		"/home/andrey/downloads/ideone_pOaF9C.cpp",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/GestaoNoticiasController.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/cadastrar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/painel.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Site/SindicalizarController.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/site/sindicalizar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/GestaoSindicalizadosController.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_07_25_032611_create_noticias_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/editar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/rascunhos.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/Noticias/CadastrarController.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/Usuarios/UsuariosController.php",
+		"/home/andrey/dev/st_laravel/sindicato/routes/web.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/visualizar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/sindicato.sublime-project",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/site/index.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/site/ver_noticia.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/principal.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_07_25_130255_create_sindicalizados_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/site/layouts/master.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/principal.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/layouts/sidebar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/editar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/concluido.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/modificar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/adcionar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/usuarios/listar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/site/layouts/foot.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/pagamentos/configuracoes.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/PagamentosController.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/seeds/PagamentosTableSeeder.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_08_10_124811_create_mensalidades_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/seeds/DatabaseSeeder.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_07_25_150848_create_dependentes_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/cadastrar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_08_10_113755_create_pagamentos_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Models/Pagamento.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/migrations/2017_08_10_113755_create_configuracaos_table.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/relatorios/principal.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/pagamentos/principal.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Models/Configuracao.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/layouts/painel_master.blade.php",
+		"/home/andrey/dev/SB Principal/contact.html",
+		"/home/andrey/dev/st_laravel/card_memory/public/arsha/arsha/index.html",
+		"/home/andrey/dev/st_laravel/sindicato/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/home/andrey/dev/st_laravel/sindicato/public/css/toolkit.css",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Site/VisNoticiasController.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/noticias/sucesso.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/RelatoriosController.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/validar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Painel/Relatorios.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/portaria.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php",
+		"/home/andrey/var/bootstrap-4.0.0-alpha.6-dist/index.html",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/rel_sindicalizados.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/editar.blade.php",
+		"/home/andrey/tmp/Psi_time_sq_2.py",
+		"/home/andrey/tmp/test/Psi_time_sq_2.py",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/form_editar.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/resources/views/painel/inadimplentes.blade.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/seeds/NoticiasTableSeeder.php",
+		"/home/andrey/dev/st_laravel/sindicato/app/Http/Controllers/Site/SiteController.php",
+		"/home/andrey/dev/st_laravel/sindicato/public/css/panel_toolkit.css",
+		"/home/andrey/dev/st_laravel/sindicato/storage/framework/views/b2a2b2130ba336b4ac63bae47e320289963b8314.php",
+		"/home/andrey/dev/st_laravel/sindicato/database/seeds/EnderecosTableSeeder.php",
+		"/home/andrey/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/andrey/.config/sublime-text-3/Packages/User/HTMLPrettify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<T>",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pynns/BFQuery.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pynns/BFQuery.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										19,
+										20
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										9,
+										10
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pynns/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2134,
+								2134
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/andrey/Documents/dev/test/src/Compute.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/andrey/.config/sublime-text-3/Packages/GoSublime":
+	{
+		"height": 106.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 107.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pynns.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setup",
+				"setup.py"
+			],
+			[
+				"init",
+				"pynns/__init__.py"
+			],
+			[
+				"test",
+				"tests/test.py"
+			],
+			[
+				"setu",
+				"setup.py"
+			],
+			[
+				"gestaosind",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"form_edi",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"ver_no",
+				"resources/views/site/ver_noticia.blade.php"
+			],
+			[
+				"sindica",
+				"resources/views/painel/rel_sindicalizados.blade.php"
+			],
+			[
+				"gestao",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"atualizar",
+				"resources/views/site/atualizar-form.blade.php"
+			],
+			[
+				"sindicalizar",
+				"resources/views/site/sindicalizar.blade.php"
+			],
+			[
+				"form_ed",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"gestaosin",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"sitecon",
+				"app/Http/Controllers/Site/SiteController.php"
+			],
+			[
+				"sindicalizados",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"form_e",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"gestaos",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"imprimi",
+				"resources/views/painel/imprimir/fichacadastral.blade.php"
+			],
+			[
+				"bancoco",
+				"app/Http/Controllers/Painel/BancoController.php"
+			],
+			[
+				"kernel",
+				"app/Console/Kernel.php"
+			],
+			[
+				"bancos",
+				"resources/views/painel/bancos/editar.blade.php"
+			],
+			[
+				"editar",
+				"public/images/editar.svg"
+			],
+			[
+				"form",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"cadastar",
+				"resources/views/painel/cadastrar.blade.php"
+			],
+			[
+				"sindicalizadosc",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"cadastrar",
+				"resources/views/painel/cadastrar.blade.php"
+			],
+			[
+				"imprimir",
+				"resources/views/painel/imprimir/fichacadastral.blade.php"
+			],
+			[
+				"master.b",
+				"resources/views/site/layouts/master.blade.php"
+			],
+			[
+				"tool",
+				"public/css/toolkit.css"
+			],
+			[
+				"convenios",
+				"resources/views/site/convenios.blade.php"
+			],
+			[
+				"ver_",
+				"resources/views/site/ver_noticia.blade.php"
+			],
+			[
+				"foot",
+				"resources/views/site/layouts/foot.blade.php"
+			],
+			[
+				"toolk",
+				"public/css/toolkit.css"
+			],
+			[
+				"form_",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"sitec",
+				"app/Http/Controllers/Site/SiteController.php"
+			],
+			[
+				"gestaosi",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"formed",
+				"resources/views/painel/form_editar.blade.php"
+			],
+			[
+				"cadast",
+				"resources/views/painel/cadastrar.blade.php"
+			],
+			[
+				"sindicalizad",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"atualiz",
+				"resources/views/site/atualizar-form.blade.php"
+			],
+			[
+				"sindicalizar.b",
+				"resources/views/site/sindicalizar.blade.php"
+			],
+			[
+				"agenci",
+				"app/Models/Agencia.php"
+			],
+			[
+				"sindicalizadocon",
+				"app/Http/Controllers/Painel/GestaoSindicalizadosController.php"
+			],
+			[
+				"foote",
+				"resources/views/vendor/mail/html/footer.blade.php"
+			],
+			[
+				"rout",
+				"vendor/symfony/routing/Route.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/doc/search/PIBIC/Junho 2017/MCCE_Simulation/MCCEs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

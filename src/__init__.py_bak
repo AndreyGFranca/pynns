@@ -1,2 +1,2 @@
-from _pynns import *
+from pynns import BFQuery
 from .visualization import *
