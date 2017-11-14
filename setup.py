@@ -99,9 +99,9 @@ setup(
     url='',
     description='Python Nearest neighbor search.',
     long_description='',
-    # packages = find_packages(),
+    packages = find_packages(),
     ext_modules=ext_modules,
     install_requires=['pybind11>=2.2'],
-    cmdclass={'build_ext': BuildExt},
-    zip_safe=False,
+    # cmdclass={'build_ext': BuildExt},
+    # zip_safe=False,
 )

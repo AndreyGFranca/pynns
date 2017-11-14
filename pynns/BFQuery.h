@@ -9,20 +9,15 @@ namespace pynns {
     class BFQuery
     {
     public:
-        BFQuery(std::vector< std::vector<float> > coords);
-        ~BFQuery();
+        BFQuery(std::vector<std::vector<float>> a);
+        ~BFQuery();        
 
-        void store_data(std::vector<float> coords);
-        float nearest_neighbor_query(float coord, unsigned int k);
-        float distance(std::vector<float> coord1, std::vector<float> coord2);
-
+        float nearest_neighbor(float p);
+        float distance(std::vector<float> p1, std::vector<float> p2);
 
     private:
 
-        
-
-        std::vector<float> m_data;
-        std::vector<std::vector<float>> m_coords;
+        std::vector<std::vector<float>> m_data;
         
     };
 
