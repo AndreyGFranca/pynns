@@ -9,25 +9,19 @@ pynns::BFQuery::BFQuery(std::vector<std::vector<float>> a)
 
 pynns::BFQuery::~BFQuery() { }
 
-float pynns::BFQuery::nearest_neighbor(float p)
+std::vector<float> pynns::BFQuery::nearest_neighbor(const std::vector<float>& p)
 {
-    float short_dist = distance(m_data[0], m_data[1]);
-
+    float short_dist = distance(p, m_data[0]);
+    std::vector<float> nn = m_data[0];
     for(unsigned i = 0; i < m_data.size(); ++i) {
-        for(unsigned j = 0; j < m_data.size(); ++j) {
-            if (i != j)
-            {
-                float dist = distance(m_data[i], m_data[j]);
-                std::cout << dist << std::endl;
-                if(dist < short_dist)
-                {
-                    short_dist = dist; 
-                }
-            }            
+        float dist = distance(p, m_data[i]);
+        if(dist < short_dist)
+        {
+            nn = m_data[i];
+            short_dist = dist; 
         }
     }
-
-    return short_dist;
+    return nn;
 
 }
 

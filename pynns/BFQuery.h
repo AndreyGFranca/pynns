@@ -12,7 +12,7 @@ namespace pynns {
         BFQuery(std::vector<std::vector<float>> a);
         ~BFQuery();        
 
-        float nearest_neighbor(float p);
+        std::vector<float>  nearest_neighbor(const std::vector<float>& p);
         float distance(std::vector<float> p1, std::vector<float> p2);
 
     private:
